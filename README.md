@@ -5,7 +5,9 @@ Interactive Excel Dashboard Analyzing E-commerce Sales Data.
 #Tools Used
 
    ♦ Excel
+   
    ♦ Power Query
+   
    ♦ Pivot Tables
   
 #Key Insights
